@@ -1,0 +1,8 @@
+﻿  main.cpp
+g:\my_work\workshop_oct2018\type_traits_ex1\type_traits_ex1\main.cpp(33): error C2664: 'void foo(int &)': cannot convert argument 1 from 'const int' to 'int &'
+  g:\my_work\workshop_oct2018\type_traits_ex1\type_traits_ex1\main.cpp(33): note: Conversion loses qualifiers
+  g:\my_work\workshop_oct2018\type_traits_ex1\type_traits_ex1\main.cpp(41): note: see reference to function template instantiation 'void bar<const int>(T &)' being compiled
+          with
+          [
+              T=const int
+          ]

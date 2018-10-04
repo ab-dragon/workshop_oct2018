@@ -1,0 +1,5 @@
+﻿  main.cpp
+g:\my_work\workshop_oct2018\stdmove_returntype\stdmove_returntype\main.cpp(30): error C2440: 'initializing': cannot convert from 'bar' to 'bar &'
+  g:\my_work\workshop_oct2018\stdmove_returntype\stdmove_returntype\main.cpp(30): note: A non-const reference may only be bound to an lvalue
+g:\my_work\workshop_oct2018\stdmove_returntype\stdmove_returntype\main.cpp(32): error C2440: 'initializing': cannot convert from 'bar' to 'bar &'
+  g:\my_work\workshop_oct2018\stdmove_returntype\stdmove_returntype\main.cpp(32): note: A non-const reference may only be bound to an lvalue

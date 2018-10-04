@@ -1,0 +1,8 @@
+﻿  test_perf.cpp
+test_perf.cpp(44): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  12 of 120 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  need_for_speed.vcxproj -> G:\my_work\workshop_oct2018\need_for_speed\Release\need_for_speed.exe
