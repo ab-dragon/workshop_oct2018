@@ -43,7 +43,7 @@ void bar(T&& x)
     // which of the following is the correct invocation????
 
     //func(x);
-    func(std::forward<T&&>(x));
+    func(std::forward<T>(x));
 }
 
 int main() {
